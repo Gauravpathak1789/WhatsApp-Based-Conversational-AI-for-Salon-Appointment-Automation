@@ -1,4 +1,4 @@
-💇‍♀️ SalonAI – WhatsApp-Based Conversational AI for Salon Appointment Automation
+# 💇‍♀️ SalonAI – n8n-Powered WhatsApp Conversational AI for Salon Appointment Automation
 
 An end-to-end WhatsApp-based Conversational AI system designed to automate salon customer interactions, service recommendations, and appointment management using n8n workflows and LLM-powered intelligence.
 
